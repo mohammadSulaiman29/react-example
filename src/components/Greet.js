@@ -8,7 +8,7 @@ export const Greet = () => {
     return <h1 className="Greet">Hello mohammad</h1>
 }
 
-export const Welcome = () => {
+export const Greet1 = () => {
     return <a href="">Welcome</a>
 }
 // export default  Greet;
